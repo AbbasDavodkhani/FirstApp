@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PersonalWeb",
+    "\\PersonalWeb\\Views",
+    "\\PersonalWeb\\Views\\Home"
   ],
-  "SelectedNode": "\\D:\\Exercise\\BackEnd\\MVC\\MyPortfolio",
   "PreviewInSolutionExplorer": false
 }
